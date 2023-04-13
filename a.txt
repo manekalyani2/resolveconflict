@@ -1,3 +1,7 @@
 im from master
 abc
+<<<<<<< HEAD
 xyz
+=======
+mno
+>>>>>>> B2
